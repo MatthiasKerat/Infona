@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Infona</string>
+
+    <!---Auth-->
+    <string name="try_again">Try again</string>
+    <string name="email_address">Email address</string>
+    <string name="enter_email_adress">Enter email address</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="enter_repeated_password">Enter repeated password</string>
+    <string name="login">Login</string>
+    <string name="stay_logged_in">Stay logged in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="created">Created</string>
+    <string name="by">by</string>
+    <string name="matthias_kerat">Matthias Kerat</string>
+    <string name="no_account_yet">No account yet?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="register">Register</string>
+    <string name="set_password_back_info">With clicking on the button a reset code will be sent to the given email address in case an already registered account exists.</string>
+    <string name="request_code">Request code</string>
+    <string name="reset_password_info">Please enter the reset code that was sent to your email address and assign a new password.</string>
+    <string name="send_code_again">Send code again</string>
+    <string name="reset_code">Reset code</string>
+    <string name="enter_reset_code">Enter reset code</string>
+    <string name="reset_password">Reset password</string>
+    <string name="no_user_exists">No user with the given email exists.</string>
+    <string name="empty_fields">There are empty fields left</string>
+    <string name="passwort_min_8">Minimum password length: 8</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="password_at_least_one_number">The password must contain at least one number</string>
+    <string name="passwort_at_least_one_special_char">The password must contain at least one special character</string>
+    <string name="email_no_email">The email is not a correct email address</string>
+    <string name="successfully_reset_password">Successfully reset password</string>
+    <string name="close">Close</string>
+
+    <!---Verification-->
+    <string name="email_verification">Email verification</string>
+    <string name="verification_info">Please enter the 6 digit verification code that was sent to your email address</string>
+    <string name="next">Next</string>
+    <string name="send_verification_code_msg">Verification code was sent again</string>
+
+    <!--BasicData-->
+    <string name="enter_your_name">Whats your name?</string>
+    <string name="enter_your_university">Which university are you in?</string>
+    <string name="hochschule_aalen">Hochschule Aalen</string>
+    <string name="select_your_gender">Select your Gender</string>
+    <string name="female_path">M25.67,7.06a7.06,7.06 0,1 0,-7.06 7.05A7.06,7.06 0,0 0,25.67 7.06ZM2,43.19a2.8,2.8 0,0 0,3.45 -1.92l4.63,-16.22L11.5,25 3,53.59l8.53,0V75.46c0,2.05 1.26,3.72 2.8,3.72h0.06c1.55,0 2.81,-1.67 2.81,-3.72V53.64h2.09V75.46c0,2.05 1.25,3.72 2.8,3.72h0.06c1.55,0 2.8,-1.67 2.8,-3.72V53.66l8.24,0 -8,-28.64h1.26l4.63,16.22a2.79,2.79 0,1 0,5.37 -1.53l-4.94,-17.3c-0.81,-2.84 -3.41,-7.73 -9.23,-7.73 -0.42,0 -6.74,-0.1 -9,-0.1 -5.59,0 -7.45,5.16 -8.21,7.83L0.11,39.74A2.79,2.79 0,0 0,2 43.19Z</string>
+    <string name="male_path">M22.05,7.08A7.08,7.08 0,1 0,15 14.16,7.08 7.08,0 0,0 22.05,7.08ZM0,25.2V43.25a2.8,2.8 0,0 0,5.6 0V25.67H6.71l0.06,21.16v29a3.73,3.73 0,0 0,3.73 3.74h0.08a3.73,3.73 0,0 0,3.73 -3.74v-29h1.33V75.69a3.73,3.73 0,0 0,3.73 3.73h0.08a3.73,3.73 0,0 0,3.73 -3.73v-50h1.17V43.25a2.8,2.8 0,0 0,5.6 0v-18c0,-2.95 -0.78,-9.64 -6.77,-9.64H6.69C0.77,15.62 0,22.26 0,25.2Z</string>
+    <string name="date_of_birth">Your Date of Birth</string>
+    <string name="select_your_average_grade">Select your average grade</string>
+
+    <!--Settings-->
+    <string name="user_data">User Data</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="university">University</string>
+    <string name="average_grade">Average Grade</string>
+    <string name="privacy">Privacy</string>
+    <string name="show_email">Show email address</string>
+    <string name="show_average_grade">Show average grade</string>
+    <string name="show_age">Show age</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="new_name">New name</string>
+    <string name="new_gender">New Gender</string>
+    <string name="new_university">New university</string>
+    <string name="new_average_grade">New average grade</string>
+    <string name="your_name">Your name</string>
+    <string name="your_gender">Your Gender</string>
+    <string name="your_university">Your university</string>
+    <string name="your_average_grade">Your average grade</string>
+
+    <!---Exercise-->
+    <string name="aufgabe">Aufgabe %1$s/%2$s</string>
+    <string name="antwort_pruefen">Eingegebene Antwort prüfen?</string>
+    <string name="speichern">Bestätigen</string>
+    <string name="abbrechen">Abbrechen</string>
+    <string name="tip_kaufen">Möchtest du den Tipp für %1$s kaufen?</string>
+    <string name="antwort_falsch">Falsche Antwort. Probier es erneut</string>
+    <string name="antwort_richtig">Glückwunsch die Antwort ist richtig. Du hast %1$s IC$ verdient</string>
+
+    <!---Profile-->
+    <string name="university_profile">Universität</string>
+    <string name="alter_profile">Alter</string>
+    <string name="averagegrade_profile">Notendurchschnitt</string>
+
+</resources>
